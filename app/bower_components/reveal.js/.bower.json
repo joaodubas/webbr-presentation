@@ -1,0 +1,14 @@
+{
+  "name": "reveal.js",
+  "homepage": "https://github.com/hakimel/reveal.js",
+  "version": "2.6.0",
+  "_release": "2.6.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.6.0",
+    "commit": "69bf9b51ec441fa4f7924d53f3e620a203bff83d"
+  },
+  "_source": "git://github.com/hakimel/reveal.js.git",
+  "_target": "~2.6.0",
+  "_originalSource": "reveal.js"
+}
