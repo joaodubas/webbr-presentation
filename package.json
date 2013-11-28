@@ -1,0 +1,23 @@
+{
+  "name": "webbr-presentation",
+  "version": "0.0.1",
+  "description": "Presentation about the WebBR conf.",
+  "author": "Joao Paulo Dubas <joao.dubas@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://bibucket.com/joaodubas/webbr-presentation.git"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/nodemon node_modules/.bin/static ./app",
+    "postinstall": "node_modules/.bin/bower install"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "~0.7.10",
+    "node-static": "~0.7.2",
+    "bower": "~1.2.7"
+  },
+  "node": {
+    "engine": "0.10.x"
+  }
+}

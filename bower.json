@@ -1,0 +1,9 @@
+{
+  "name": "webbr-presentation",
+  "version": "0.0.1",
+  "description": "Presentation about the WebBR conf.",
+  "author": "Joao Paulo Dubas <joao.dubas@gmail.com>",
+  "dependencies": {
+    "reveal.js": "~2.6.0"
+  }
+}
